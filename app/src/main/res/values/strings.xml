@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="login_title">Sign in to your account</string>
+    <string name="login_email">Username(required)</string>
+    <string name="login_password">Password(required)</string>
+    <string name="login_btn">Login</string>
+    <string name="activity_login_auto_hint_email">Email</string>
+    <string name="activity_login_auto_hint_password">Password</string>
+    <string name="login_user">user</string>
+    <string name="light_theme">light</string>
+    <string name="career_path_label">Career Path</string>
+    <string name="career_note">Software engineering professional with around 3 years of experience developing and maintaining diverse systems within fast-paced, high-pressure environments. Blends strong analytical, technical, and team collaboration skills to deliver quality IT solutions, system features, and tools to address the needs of users. Skilled at facilitating data sharing, tracking, and storage – supporting attainment of challenging objectives</string>
+    <string name="work_experience_label">Work Experience</string>
+    <string name="work_experience">
+        <b>Languages</b>:  JavaScript, Java, React, Angular, Kotlin\n
+        <b>Web</b>: HTML, CSS, Bootstrap, JavaScript, React, ThymeLeaf\n
+        <b>Web services</b>: REST, SOAP\n
+        <b>Web App/Serves</b>: Apache Tomcat\n
+        <b>Frameworks</b>:  Spring Boot, Spring MVC, Spring, Angular, Express\n
+        <b>Databases</b>:  Oracle SQL, Postgress SQL, MongoDB\n
+        <b>Design patterns</b>: Singleton, factory\n
+        <b>SDLC</b>: Waterfall, Agile/Scrum\n
+        <b>Tools</b>:  Maven, STS, Jenkins, IntelliJ, Jira, Postman, Docket, Git, JUnit\n
+        <b>Platforms</b>:  Window, Linux
+    </string>
+    <string name="projects_label">Projects</string>
+    <string name="projects">
+        <b>E-wallet mobile phone application for money transfers and bill pays.</b>\n
+        Built and maintained system within high-pressure operational platform.\n
+        •	Developed payment channel between Momo and various banks as well as mobile network operators.\n
+        •	Created game’s money and achievements management features.\n
+        •	Enhanced data transfer amongst teams as well as related data analysis.\n
+        Technologies Used: Kotlin, MySQL, NoSQL, Cassandra, Bigtable, BigQuery, Pubsub, Linux
+ </string>
+    <string name="my_contact">My Contact</string>
+    <string name="phone_number">(737)-287-7137</string>
+    <string name="phone">Phone</string>
+    <string name="email">thanhtrung.le@miu.edu</string>
+    <string name="email_label">Email</string>
+    <string name="linkedIn">https://www.linkedin.com/in/trunglethanhit/</string>
+    <string name="linkedin_label">LinkedIn</string>
+    <string name="github">https://github.com/lethanhtrung95ee</string>
+    <string name="github_label">Github</string>
+    <string name="intent_filter">mailto:</string>
+    <string name="email_subject">MDP Course</string>
+    <string name="email_body">Please, reach out to me for more information.</string>
+    <string name="web">web</string>
+    <string name="momo_inc">Momo company</string>
+    <string name="junior_java_developer">Junior Java Developer</string>
+    <string name="_2020_2021">2020-2021</string>
+    <string name="momo_title">Junior Java Developer</string>
+    <string name="_2021_2021">2021-2021</string>
+    <string name="unit_inc">Unit company</string>
+    <string name="unit_tile">Java developer</string>
+    <string name="bosch_inc">Bosch company</string>
+    <string name="bosch_title">Embedded engineering</string>
+    <string name="_2019_2020">2019-2020</string>
+    <string name="about_me_label">About me</string>
+    <string name="about_me">Software engineering professional with around 3 years of experience developing and maintaining diverse systems within fast-paced, high-pressure environments. Blends strong analytical, technical, and team collaboration skills to deliver quality IT solutions, system features, and tools to address the needs of users. Skilled at facilitating data sharing, tracking, and storage – supporting attainment of challenging objectives.</string>
+    <string name="education">Education path</string>
+    <string name="my_college">My colleges</string>
+    <string name="maharishi_international_university">Maharishi International University</string>
+    <string name="master_of_science_in_computer_science">Master of Science in Computer Science</string>
+    <string name="bachkhoa_university">Bach Khoa University</string>
+    <string name="bachelors_of_electrical_electronic_engineering">Bachelors of electrical electronic engineering</string>
+    <string name="certification">Certification</string>
+    <string name="ielts">IELTS</string>
+    <string name="_11_8_2020">11-8-2020</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="saved_theme">theme</string>
+    <string name="settings">Settings</string>
+</resources>
